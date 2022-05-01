@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=liquid
+kernel.string=liquid by adrian-8901 @ github
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lavender
+device.name1=umi
 supported.versions=9 - 12
 supported.patchlevels=
 '; } # end properties
